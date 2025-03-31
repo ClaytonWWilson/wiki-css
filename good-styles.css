@@ -10,14 +10,10 @@
     }
   }
 
-  img {
+  grow-longer {
     animation-name: longer;
     animation-duration: 3s;
     animation-iteration-count: infinite;
     border: 2px solid orange;
     background-color: yellow;
   }
-
-div {
-    border: 2px solid orange;
-}
