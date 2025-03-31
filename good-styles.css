@@ -1,0 +1,16 @@
+@keyframes longer {
+    0% {
+      height: 50px;
+    }
+    50% {
+      height: 300px;
+    }
+    100% {
+      height: 50px;
+    }
+  }
+
+  .grow-longer {
+    animation-name: longer;
+    animation-duration: 3s;
+  }
